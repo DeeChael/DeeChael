@@ -2,11 +2,13 @@
 ## Introduction
 **Name**: You can call me DeeChael or also Dee\
 **Age**: Only 16 now\
+**From**: China\
+**Job**: Senior High School Student
 **Language**: Chinese(Native), English\
 **Programming Language**: Java, Python, a little bit C#, C++ and Kotlin\
 **Favorite Writer**: Isaac Asimov\
 **Favorite Music**: I like electronic music, and I prefer Hardstyle and Future Bounce\
-**Favorite Youtuber**: Technoblade
+**Favorite Youtuber**: Technoblade\
 **Games I play**: Minecraft(IGN: DeeChael, Ogrios), Apex Legends(Got banned already)
 
 ## Contact me
