@@ -1,16 +1,31 @@
-### Hi there 👋
+## Self Introduction
+**Name**: You can call me DeeChael or also Dee\
+**Age**: Only 16 now\
+**Language**: Chinese(Native), English\
+**Programming Language**: Java, Python, a little bit C#, C++ and Kotlin\
+**Favorite Writer**: Isaac Asimov\
+**Favorite Music**: I like electronic music, and I prefer Hardstyle and Future Bounce\
+**Favorite Youtuber**: Technoblade
 
-<!--
-**DeeChael/DeeChael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Games I play
+Minecraft (IGN: DeeChael)\
+Apex Legends (Got banned, I hate you EA)\
+Titanfall 2\
+Counter-Strike: Global Offensive\
+DOOM\
+Borderland 3\
+Among Us\
+Don't Starve Together\
+Terraria
 
-Here are some ideas to get you started:
+## Contact me
+**E-Mail**: DeeChael@outlook.com\
+**Discor**d: DeeChael#2361\
+**Kaiheila**: DeeChael#0001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Cards
+![DeeChael's Profile](https://github-readme-stats.vercel.app/api?username=DeeChael&show_icons=true&theme=radical)
+
+[![Dynamic Class Generator](https://github-readme-stats.vercel.app/api/pin/?username=TheOthers-SMP-Project&repo=DynamicClassGenerator&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TheOthers-SMP-Project/DynamicClassGenerator))
+[![TicketMaster](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=TicketMaster&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeeChael/TicketMaster))
+[![Maytry](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=Maytry&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeeChael/Maytry))
