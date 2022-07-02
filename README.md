@@ -13,11 +13,11 @@
 
 ## Contact me
 **E-Mail**: DeeChael@outlook.com\
-**Discor**d: DeeChael#2361\
-**Kaiheila**: DeeChael#0001
+**Discord**: DeeChael#2361\
+**Kaiheila**: DeeChael\#0001
 
 ## My projects
-[![Dynamic Class Generator](https://github-readme-stats.vercel.app/api/pin/?username=BubbleMC-Team&repo=DynamicClassGenerator&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TheOthers-SMP-Project/DynamicClassGenerator))
+[![Dynamic Class Generator](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=DynamicClassGenerator&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeeChael/DynamicClassGenerator))
 [![Dynamic Class Generator](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=Kaiheila.java&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TheOthers-SMP-Project/DynamicClassGenerator))
 [![TicketMaster](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=TicketMaster&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeeChael/TicketMaster))
 [![Maytry](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=Maytry&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeeChael/Maytry))
