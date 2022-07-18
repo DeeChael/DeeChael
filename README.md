@@ -14,7 +14,9 @@
 ## Contact me
 **E-Mail**: DeeChael@outlook.com\
 **Discord**: DeeChael#2361\
-**Kaiheila**: DeeChael\#0001
+**KOOK (Original Kaiheila)**: DeeChael\#0001
+
+Github你妈死了，什么勾巴玩意，你让我怎么避免仓库加#加数字转义成他妈PR识别？你妈了个臭逼操你妈的蛋死妈逼玩意
 
 ## My projects
 [![Dynamic Class Generator](https://github-readme-stats.vercel.app/api/pin/?username=DeeChael&repo=DynamicClassGenerator&theme=radical)](https://github.com/DeeChael/DynamicClassGenerator)
