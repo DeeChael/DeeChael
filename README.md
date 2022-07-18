@@ -4,7 +4,7 @@
 **Age**: Only 16 now\
 **From**: China\
 **Job**: Senior High School Student\
-**Language**: Chinese(Native), English\
+**Language**: Chinese(Native), English, Japanese(Learning), Spanish(Learning)\
 **Programming Language**: Java, Python, a little bit C#, C++ and Kotlin\
 **Favorite Writer**: Isaac Asimov\
 **Favorite Music**: I like electronic music, and I prefer Hardstyle and Future Bounce\
