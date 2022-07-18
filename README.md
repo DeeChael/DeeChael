@@ -9,7 +9,7 @@
 **Favorite Writer**: Isaac Asimov\
 **Favorite Music**: I like electronic music, and I prefer Hardstyle and Future Bounce\
 **Favorite Youtuber**: Technoblade\
-**Games I play**: Minecraft(IGN: DeeChael, Ogrios), Apex Legends(Got banned already)
+**Games I play**: Minecraft(IGN: DeeChael, Ogrios), Apex Legends(Unbanned！)
 
 ## Contact me
 **E-Mail**: DeeChael@outlook.com\
