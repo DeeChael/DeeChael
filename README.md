@@ -1,6 +1,6 @@
 ![DeeChael's Profile](https://github-readme-stats.vercel.app/api?username=DeeChael&show_icons=true&theme=radical)
 ## Introduction
-**Name**: You can call me DeeChael or also Dee\
+**Name**: You can call me DeeChael or also Dee (Full: Deerio Chaelingo)\
 **Age**: Only 16 now\
 **From**: China\
 **Job**: Senior High School Student\
