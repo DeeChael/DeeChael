@@ -1,6 +1,6 @@
 ![DeeChael's Profile](https://github-readme-stats.vercel.app/api?username=DeeChael&show_icons=true&theme=radical)
 ## Introduction
-**Name**: Deerio Chaelingo
+**Name**: Deerio Chaelingo\
 **Nickname**: DeeChael
 
 ## Contact me
