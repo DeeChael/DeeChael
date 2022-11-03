@@ -1,8 +1,7 @@
 ![DeeChael's Profile](https://github-readme-stats.vercel.app/api?username=DeeChael&show_icons=true&theme=radical)
 ## 👋 Hello there!
-**Name**: Deerio Chaelingo\
-**Nickname**: DeeChael\
-**Hobby**: Japanese Light Novel
+My name is Deerio Chealingo, you can call me DeeChael\
+I'm in China for learning now, I like reading Japanese Light Novels!
 
 ## 🛠️ Now working
 [Dynamic Class Generator](https://github.com/DeeChael/DynamicClassGenerator) - A library allows you to generate classes while running your program\
