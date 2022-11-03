@@ -3,7 +3,7 @@
 **Name**: Deerio Chaelingo\
 **Nickname**: DeeChael
 
-## Now Working
+## Now working
 [Dynamic Class Generator](https://github.com/DeeChael/DynamicClassGenerator) - A library allows you to generate classes while running your program\
 [GedFramework](https://github.com/DeeChael/DynamicClassGenerator) - An easy to use web framework\
 [Genshin Craft](https://github.com/GedStudio/Genshin-Craft) - Let's play Genshin Craft in Minecraft with Spigot ! (Premium plugin for $9.99)\
