@@ -10,4 +10,5 @@
 [DD Douga](https://github.com/DeeChael/DDDouga) - A java software to watch anime on your PC (Multi-platform)
 
 
+## Sponsoring
 [![DeeChael's Afdian](https://github.com/DeeChael/DeeChael/blob/master/deechael_afd.png?raw=true)](https://afdian.net/a/GedStudio)
