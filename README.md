@@ -6,8 +6,10 @@ I'm in China for learning now, I like reading Japanese Light Novels!
 ## 🛠️ Now working
 [Dynamic Class Generator](https://github.com/DeeChael/DynamicClassGenerator) - A library allows you to generate classes while running your program\
 [GedFramework](https://github.com/DeeChael/DynamicClassGenerator) - An easy to use web framework\
-[Genshin Craft](https://github.com/GedStudio/Genshin-Craft) - Let's play Genshin Craft in Minecraft with Spigot ! (Premium plugin for $9.99)\
-[DD Douga](https://github.com/DeeChael/DDDouga) - A java software to watch anime on your PC (Multi-platform)
+[Genshin Craft](https://github.com/GedStudio/Genshin-Craft) - Let's play Genshin Craft in Minecraft with Spigot ! \
+[DD Douga](https://github.com/DeeChael/DDDouga) - A java software to watch anime on your PC (Multi-platform) \
+Easy Crafting - A powerful costomizible crafting table plugin (Premium $4.99) \
+[Bright Magic](https://github.com/DeeCheal/BrightMagic) - A high version Minecraft fabric magic mod which brings elements and element reactions into Minecraft!
 
 ## 📝 Support KeYiMC Team's fantastic project!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
