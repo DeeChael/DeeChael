@@ -3,6 +3,9 @@
 My name is Deerio Chealingo, you can call me DeeChael\
 I'm in China for learning now, I like reading Japanese Light Novels!
 
+## Projects
+I don't like wasting too many time on a single project, so I prefer creating light-weight program to powerful and functional program.
+
 ## 🛠️ Now working
 [Dynamic Class Generator](https://github.com/DeeChael/DynamicClassGenerator) - A library allows you to generate classes while running your program\
 [GedFramework](https://github.com/DeeChael/DynamicClassGenerator) - An easy to use web framework\
