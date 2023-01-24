@@ -16,8 +16,8 @@ Easy Crafting - A powerful costomizible crafting table plugin (Premium $4.99) \
 
 ### Light-weight librarys
 [download](https://github.com/GedStudio/download) - A light-weight download library for java\
-[Conversation](https://github.com/DeeCheal/Conversation) - A light-weight conversation library for bukkit\
-[Camera](https://github.com/DeeCheal/Camera) - A light-weight camera movement library for bukkit to create animation
+[Conversation](https://github.com/DeeChael/Conversation) - A light-weight conversation library for bukkit\
+[Camera](https://github.com/DeeChael/Camera) - A light-weight camera movement library for bukkit to create animation
 
 ## 📝 Support KeYiMC Team's fantastic project!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
