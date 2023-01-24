@@ -14,6 +14,11 @@ I don't like wasting too many time on a single project, so I prefer creating lig
 Easy Crafting - A powerful costomizible crafting table plugin (Premium $4.99) \
 [Bright Magic](https://github.com/DeeCheal/BrightMagic) - A high version Minecraft fabric magic mod which brings elements and element reactions into Minecraft!
 
+### Light-weight librarys
+[download](https://github.com/GedStudio/download) - A light-weight download library for java\
+[Conversation](https://github.com/DeeCheal/Conversation) - A light-weight conversation library for bukkit\
+[Camera](https://github.com/DeeCheal/Camera) - A light-weight camera movement library for bukkit to create animation
+
 ## 📝 Support KeYiMC Team's fantastic project!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
 
