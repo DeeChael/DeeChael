@@ -17,9 +17,6 @@ I don't like wasting too many time on a single project, so I prefer creating lig
 ### 🛠️ Now working
 [Dynamic Class Generator](https://github.com/DeeChael/DynamicClassGenerator) - A library allows you to generate classes while running your program\
 [GedFramework](https://github.com/DeeChael/DynamicClassGenerator) - An easy to use web framework\
-[Genshin Craft](https://github.com/GedStudio/Genshin-Craft) - Let's play Genshin Craft in Minecraft with Spigot ! \
-[DD Douga](https://github.com/DeeChael/DDDouga) - A java software to watch anime on your PC (Multi-platform) \
-Easy Crafting - A powerful costomizible crafting table plugin (Premium $4.99) \
 [Bright Magic](https://github.com/DeeCheal/BrightMagic) - A high version Minecraft fabric magic mod which brings elements and element reactions into Minecraft!
 
 ### Light-weight libraries
