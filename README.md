@@ -1,6 +1,1 @@
-quit development  
-never back
-
-any new projects check: https://git.deechael.net
-
-
+studying, projects will be updated in a slow rate
